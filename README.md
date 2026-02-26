@@ -49,3 +49,9 @@ Inventory-Management-System/
     │   ├── App.js
     │   └── index.js
     └── package.json
+
+## Installation & Setup:
+  #Clone Repository:
+    git clone https://github.com/your-username/inventory-management-system.git
+    cd inventory-management-system
+  
