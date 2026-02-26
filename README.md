@@ -1,21 +1,33 @@
-# Inventory Management System (MERN)
+##Inventory Management System:
+A simple and efficient Inventory Management System built to manage products, stock, sales, and purchases with role-based access. This project helps businesses track inventory in real time, reduce manual errors, and manage operations smoothly.
 
-## Overview
-This is a basic full-stack Inventory Management System built using the MERN stack.
+##Features:
+  * Role-based Login (Admin / Customer)
+  * Dashboard with inventory stats
+  * Product & Stock Management
+  * Purchase Management
+  * Sales Management
+  * Customer View (view products & book / buy)
+  * MongoDB Database Integration
+  * REST API based backend
+  * Responsive UI
 
-## Features
-- Admin & Employee Login
-- Add / Delete Products
-- View Stock
-- JWT Authentication
+## Tech Stack:
+ #Frontend:
+    *React.js
+    *Axios
+    *Tailwind / CSS
+ #Backend:
+    *Node.js
+    *Express.js
+ #Database:
+    *MongoDB (MongoDB Compass)
+ #Other Tools:
+    *Git & GitHub
+    *VS Code
+    *Postman
 
-## Tech Stack
-- React (Frontend)
-- Node.js & Express (Backend)
-- MongoDB (Database)
-
-## Project Structure
-
+## Structure:
 Inventory-Management-System/
 │
 ├── inventory-backend/
